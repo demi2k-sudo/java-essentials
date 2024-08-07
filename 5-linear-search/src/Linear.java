@@ -28,5 +28,6 @@ public class Linear {
         else{
             System.out.println("The number you search is found at index "+result);
         }
+        in.close();
     }
 }

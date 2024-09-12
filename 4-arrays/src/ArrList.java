@@ -24,5 +24,6 @@ public class ArrList {
         System.out.println(b);
         b.set(0,a);
         System.out.println(b);
+        System.out.println(a.subList(1, 2));
     }    
 }
